@@ -4,7 +4,7 @@
 
 The **Smart City Management System** is a comprehensive solution designed to enhance urban management and improve the quality of life in modern cities. This platform provides real-time monitoring, effective emergency response coordination, and streamlined resident services. The system is modeled after DHA Phase 1 Islamabad and is built using a combination of modern technologies to deliver robust functionality.
 
-![System Overview](https://github.com/MZYXPLX/Smart-City-Management-System/blob/main/src/assets/Complaints.png)
+![System Overview](https://github.com/MZYXPLX/Smart-City-Management-System/blob/main/src/assets/Overwatch2.png)
 
 ## Key Features
 
@@ -12,19 +12,19 @@ The **Smart City Management System** is a comprehensive solution designed to enh
 
 Track authority vehicles in real-time to ensure efficient resource management and operational effectiveness.
 
-![Vehicle Monitoring](path/to/vehicle-monitoring-image.png)  
+![Vehicle Monitoring](https://github.com/MZYXPLX/Smart-City-Management-System/blob/main/src/assets/LiveTrack.png)  
 
 ### Emergency Response Coordination
 
 Coordinate emergency responses with optimized resource allocation to enhance city safety and security.
 
-![Emergency Response](path/to/emergency-response-image.png)  
+![Emergency Response](https://github.com/MZYXPLX/Smart-City-Management-System/blob/main/src/assets/Complaints.png)  
 
 ### Resident Complaint Management
 
 Allow residents to file and track complaints easily, ensuring prompt and effective issue resolution.
 
-![Complaint Management](path/to/complaint-management-image.png)  
+![Complaint Management](https://github.com/MZYXPLX/Smart-City-Management-System/blob/main/src/assets/Complaints%202.png)  
 
 ## Technical Stack
 
@@ -34,8 +34,6 @@ Allow residents to file and track complaints easily, ensuring prompt and effecti
 - **Additional Technologies:** Java  
 - **Deployment Environment:** Virtual representation of DHA Phase 1 Islamabad
 
-![Tech Stack](path/to/tech-stack-image.png)  
-
 ## Architecture
 
 The system is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Java for a scalable and robust architecture. It integrates the following key modules:
@@ -43,8 +41,6 @@ The system is built using the MERN stack (MongoDB, Express.js, React.js, Node.js
 1. **Real-Time Vehicle Tracking:** Provides live updates on the location of authority vehicles.
 2. **Emergency Response Module:** Manages and coordinates responses to emergency situations.
 3. **Complaints Management System:** Handles and tracks resident complaints from submission to resolution.
-
-![Architecture Diagram](path/to/architecture-diagram-image.png)  
 
 ## Usage
 
