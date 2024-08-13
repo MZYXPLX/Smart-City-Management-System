@@ -4,7 +4,7 @@
 
 The **Smart City Management System** is a comprehensive solution designed to enhance urban management and improve the quality of life in modern cities. This platform provides real-time monitoring, effective emergency response coordination, and streamlined resident services. The system is modeled after DHA Phase 1 Islamabad and is built using a combination of modern technologies to deliver robust functionality.
 
-![System Overview](src/assets/Overwatch)
+![System Overview](https://github.com/MZYXPLX/Smart-City-Management-System/tree/main/src/assets/Overwatch)
 
 ## Key Features
 
